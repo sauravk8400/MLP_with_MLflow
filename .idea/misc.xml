@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.13 (weatherApp)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (MLP_with_MLflow)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (MLP_with_MLflow)" project-jdk-type="Python SDK" />
 </project>
